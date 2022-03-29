@@ -9,6 +9,8 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/javascript-1-225993.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/jquery-7-1175152.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/typescript-1-1175078.png" width="100"></td>
+  </tr>
+  <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/php-99-1175127.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/codeigniter-5-1175246.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/laravel-2-1175146.png" width="100"></td>
@@ -25,6 +27,8 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/django-13-1175187.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/java-22-225997.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/swift-21-1175088.png" width="100"></td>
+  </tr>
+  <tr>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/android-245-1175273.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/xcode-3521822-2945239.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
