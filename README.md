@@ -1,4 +1,12 @@
+# Hi There <img src="https://i.imgur.com/GNz3qCl.gif" width="30px">
+I am **Wilmer Arteaga**, My main specialization is a Full Stack development of rich web apps based on a JavaScript stack of technologies with 10+ years of experience. Based on my previous experience and modern trends in the development world, I can tell you with confidence.
+To become a superb frontend developer and support the best qualities, and satisfaction to the clients with honestly, constant creation, and passion: it's our principle as a web expert.
 
+My primary hobbies are:
+- Listening to music
+- Programming
+- Open-Source Contribution
+- Problem Solving
 <br>
 <table>
   <tr>
