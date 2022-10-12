@@ -113,6 +113,34 @@ jiayou123!@#
 Eimantas Kasperiunas //////   eim.kasp@gmail.com   ////// skype / live:.cid.350d169568142ee5
 
 
+git remote remove origin
+
+git clone --bare remote_url.
+
+
+#!/bin/sh
+
+git filter-branch --env-filter '
+
+OLD_EMAIL="carlosjohnsonluv2004@gmail.com"
+CORRECT_NAME="nenad0212"
+CORRECT_EMAIL="nenad.rakas0212@gmail.com"
+
+if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
+then
+export GIT_COMMITTER_NAME="$CORRECT_NAME"
+export GIT_COMMITTER_EMAIL="$CORRECT_EMAIL"
+fi
+if [ "$GIT_AUTHOR_EMAIL" = "$OLD_EMAIL" ]
+then
+export GIT_AUTHOR_NAME="$CORRECT_NAME"
+export GIT_AUTHOR_EMAIL="$CORRECT_EMAIL"
+fi
+' --tag-name-filter cat -- --branches --tags
+
+git push --force --tags origin 'refs/heads/*'
+
+
 
 
 
